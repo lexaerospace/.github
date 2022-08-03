@@ -8,8 +8,8 @@ We:
 * :muscle: Win competitions
 * :smiling_imp: Violate ITAR
 - - - -
-The missile may know where it is,
+#### The missile may know where it is,
 ![image](https://user-images.githubusercontent.com/26860328/182507514-d7255c4d-3919-48e5-ac0f-178cde0b8dd0.png)
 
-But I don't know...
-Why the hell you havent joined already!
+#### But I don't know...
+#### Why the hell you havent joined already!
