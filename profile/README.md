@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 We:
 * are a team of passionate high-schoolers out of Lexington Massachussets exploring the fields of aerospace engineering and robotics.
 * :rocket: Design and launch advanced model rockets 
@@ -14,5 +12,3 @@ We:
 The missile may know where it is,
 But I don't know...
 Why the hell you havent joined already!
-
--->
