@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 We:
-* are a team of passionate high-schoolers out of Lexington Massachussets exploring the fields of aerospace engineering and robotics.
+* are a team of passionate high-schoolers out of Lexington Massachusetts exploring the fields of aerospace engineering and robotics.
 * :rocket: Design and launch advanced model rockets 
 * :airplane: Build and fly UAVs
 * :sunglasses: Learn skills such as CAD, simulation, manufacturing, electronics, and data analysis.
